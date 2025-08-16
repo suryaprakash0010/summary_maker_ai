@@ -1,0 +1,19 @@
+
+package-lock.json linguist-vendored
+yarn.lock linguist-vendored
+pnpm-lock.yaml linguist-vendored
+*.json linguist-vendored
+
+*.md linguist-documentation
+LICENSE linguist-documentation
+
+ *.ts linguist-language=JavaScript
+*.tsx linguist-language=JavaScript
+
+dist/* linguist-vendored
+build/* linguist-vendored
+ 
+*.env linguist-vendored
+*.yml linguist-vendored
+*.yaml linguist-vendored
+*.config.* linguist-vendored
